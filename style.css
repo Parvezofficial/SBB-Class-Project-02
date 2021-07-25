@@ -1,0 +1,297 @@
+body{
+    margin: 0px;
+    padding: 0px;
+   
+}
+.heading{
+    margin: 0px;
+    padding: 150px;
+    text-align: center;
+    background-color: #353b48;
+    font-size: 100px;
+    font-family: 'Qahiri', sans-serif;
+    color: white;
+    border: 5px dashed white;
+}
+.heading:hover{
+    color: tomato;
+}
+.bg{
+    background-color: #78b4f8;
+    border: 10px outset white;
+    
+}
+table{
+    font-size: 20px;
+    font-weight: 0;
+}
+.head{
+    text-align: center;
+    margin: 100px;
+}
+.deco a{
+    text-decoration: none;
+    padding: 5px;
+    
+}
+.deco a:hover{
+    color:crimson;
+}
+
+.a{
+    background-color: rgb(250, 183, 147);
+    font-family: monospace;
+}
+.a:hover{
+    background-color: rgb(226, 253, 152);
+}
+
+
+.b{
+    background-color: rgb(250, 219, 147);
+    font-family: cursive;}
+.b:hover{
+    background-color: rgb(226, 253, 152);   
+}
+
+
+.c{
+    background-color: rgb(204, 250, 147);
+    font-family: fantasy;
+}
+.c:hover{
+    background-color: rgb(226, 253, 152);}
+
+
+
+.d{
+    background-color: rgb(122, 240, 201);
+}
+.d:hover{
+    background-color: rgb(226, 253, 152);}
+
+
+.e{
+    background-color: rgb(255, 223, 227);
+}
+.e:hover{
+    background-color: rgb(226, 253, 152);}
+
+
+
+.f{
+    background-color: #ffb3b3;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.f:hover{
+    background-color: rgb(226, 253, 152);}
+
+
+
+.g{
+    background-color: #8bd9f4;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.g:hover{
+    background-color: rgb(226, 253, 152);}
+
+
+
+
+.h{
+    background-color:  #a2f6de;
+}
+.h:hover{
+    background-color: rgb(226, 253, 152);}
+
+
+
+
+.i{
+    background-color: #b9f8c9;
+}
+.i:hover{
+    background-color: rgb(226, 253, 152);}
+
+
+
+.j{
+    background-color: #dff8b9;
+    
+}
+.j:hover{
+    background-color: rgb(226, 253, 152);}
+
+
+
+
+.k{
+    background-color: rgb(145, 177, 145);
+}
+.k:hover{
+    background-color: rgb(226, 253, 152);}
+
+
+
+.l{
+    background-color: gray;
+}
+.l:hover{
+    background-color: rgb(226, 253, 152);}
+
+
+
+.m{
+    background-color: rgb(147, 145, 177);
+}
+.m:hover{
+    background-color: rgb(226, 253, 152);}
+
+
+.n{
+    background-color: rgb(218, 159, 159);
+}
+.n:hover{
+    background-color: rgb(226, 253, 152);}
+
+
+
+.o{
+    background-color: rgb(203, 209, 167);
+}
+.o:hover{
+    background-color: rgb(226, 253, 152);}
+
+
+.p{
+    background-color: rgb(201, 181, 145);
+}
+.p:hover{
+    background-color: rgb(226, 253, 152);}
+
+
+
+
+.q{
+    background-color: rgb(170, 223, 192);
+}
+.q:hover{
+    background-color: rgb(226, 253, 152);}
+
+
+.r{
+    background-color: rgba(181, 245, 250, 0.486);
+}
+.r:hover{
+    background-color: rgb(226, 253, 152);}
+
+
+
+.s{
+    background-color: rgb(163, 208, 216);
+}
+.s:hover{
+    background-color: rgb(226, 253, 152);}
+
+
+
+.t{
+    background-color: rgb(148, 236, 192);
+}
+.t:hover{
+    background-color: rgb(226, 253, 152);}
+
+
+
+.u{
+    background-color: rgba(172, 252, 172, 0.5);
+}
+.u:hover{
+    background-color: rgb(226, 253, 152);}
+
+
+
+.v{
+    background-color: rgb(148, 228, 228);
+}
+.v:hover{
+    background-color: rgb(226, 253, 152);}
+
+
+.w{
+    background-color: rgb(245, 169, 207);
+}
+.w:hover{
+    background-color: rgb(226, 253, 152);}
+
+
+.x{
+    background-color: rgba(176, 247, 241, 0.767);
+}
+.x:hover{
+    background-color: rgb(226, 253, 152);}
+
+
+.y{
+    background-color: rgba(252, 176, 249, 0.74);
+}
+.y:hover{
+    background-color: rgb(226, 253, 152);}
+
+
+
+.z{
+    background-color: rgb(251, 225, 152);
+}
+.z:hover{
+    background-color: rgb(226, 253, 152);}
+
+
+
+
+.a1{
+    background-color: rgb(238, 133, 173);
+}
+.a1:hover{
+    background-color: rgb(226, 253, 152);}
+
+
+
+.a2{
+    background-color: rgb(152, 251, 157);
+}
+.a2:hover{
+    background-color: rgb(226, 253, 152);}
+
+
+
+.a3{
+    background-color: rgb(152, 251, 221);
+}
+.a3:hover{
+    background-color: rgb(226, 253, 152);}
+
+
+
+.a4{
+    background-color: rgba(251, 180, 152, 0.884);
+}
+.a4:hover{
+    background-color: rgb(226, 253, 152);}
+
+
+
+
+.Footer{
+    background-color: #353B48;
+    height: 120px;
+    padding: 80px;
+    font-size: 75px;
+    color: #fff;
+    text-align: center;
+    border: 5px dashed white;
+    margin: 0;
+} 
+.Footer:hover{
+    color: tomato;
+}
